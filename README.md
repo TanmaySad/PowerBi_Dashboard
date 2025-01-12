@@ -18,7 +18,7 @@
 
 **MENTOR NAME** : NEELA SANTHOSH
 
-# Description of the task:- 
+# Description of the task1:- 
 
 *Power BI Sales Dashboard Project*
 
@@ -37,4 +37,4 @@ This project demonstrates the creation of an interactive Power BI dashboard to a
 #### Objective:
 This repository aims to serve as a comprehensive example for beginners and professionals to create Power BI dashboards. By leveraging sample data, the project provides hands-on experience with data modeling, visualizations, and interactivity features in Power BI.
 
-# TAsk 1 output:- https://github.com/TanmaySad/PowerBi_Dashboard/blob/main/Sales%20Dashboard%201.pbix
+### Task 1 output:- https://github.com/TanmaySad/PowerBi_Dashboard/blob/main/Sales%20Dashboard%201.pbix
