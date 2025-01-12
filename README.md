@@ -25,10 +25,9 @@
 This project demonstrates the creation of an interactive Power BI dashboard to analyze sales trends, top-performing products, and regional performance using sample data. The dashboard enables users to derive actionable insights through dynamic visualizations and slicers.
 
 #### Features:
-1. **Sales Trends**: Visual representation of sales over time using a line chart.  
-2. **Top Products**: Bar chart showcasing the highest-selling products.  
-3. **Regional Performance**: Map or bar chart detailing sales performance across regions.  
-4. **Interactive Slicers**: Filters for region, product, and date to allow customized analysis.
+1. **Sales Trends**: Visual representation of sales over time using a line chart.   
+2. **Regional Performance**: Map or bar chart detailing sales performance across regions.  
+3. **Interactive Slicers**: Filters for region, product, and date to allow customized analysis.
 
 #### Deliverables:
 - A fully interactive Power BI file (`.PBIX`) with:
